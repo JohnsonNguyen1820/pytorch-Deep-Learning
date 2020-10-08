@@ -605,3 +605,13 @@ ru:
       sections:
         - path: ru/week01/01-1.md
         - path: ru/week01/01-2.md
+ 
+################################### Vietnamese ####################################
+vn:
+  title: 'HỌC SÂU'
+chapters:
+  - path: vi/Tuần 01/01.md
+    sections:
+      - path: vi/Tuần 01/01-1.md
+      - path: vi/Tuần 01/01-2.md
+      - path: vi/Tuần 01/01-3.md

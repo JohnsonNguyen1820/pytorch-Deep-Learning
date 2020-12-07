@@ -37,18 +37,18 @@ Khóa học này liên quan đến các kỹ thuật mới nhất trong học s�
   <tbody>
 <!-- =============================== WEEK 1 ================================ -->
     <tr>
-      <td rowspan="3" align="center"><a href="{{site.baseurl}}/vi/Week01/01">①</a></td>
+      <td rowspan="3" align="center"><a href="vi/Week01/01">①</a></td>
       <td rowspan="2">Bài giảng</td>
-      <td><a href="{{site.baseurl}}/vi/Week01/01-1">Lịch sử và cảm hứng</a></td>
+      <td><a href="vi/Week01/01-1">Lịch sử và cảm hứng</a></td>
       <td rowspan="2">
         <a href="https://drive.google.com/open?id=1Q7LtZyIS1f3TfeTGll3aDtWygh3GAfCb">🖥️</a>
         <a href="https://www.youtube.com/watch?v=0bMe_vCZo30">🎥</a>
       </td>
     </tr>
-    <tr><td><a href="{{site.baseurl}}/vi/Week01/01-2">Sự phát triển và học sâu</a></td></tr>
+    <tr><td><a href="vi/Week01/01-2">Sự phát triển và học sâu</a></td></tr>
     <tr>
       <td rowspan="1">Thực hành</td>
-      <td><a href="{{site.baseurl}}/vi/Week01/01-3">Mạng thần kinh (NN)</a></td>
+      <td><a href="vi/Week01/01-3">Mạng thần kinh (NN)</a></td>
       <td>
         <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/01-tensor_tutorial.ipynb">📓</a>
         <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/02-space_stretching.ipynb">📓</a>
